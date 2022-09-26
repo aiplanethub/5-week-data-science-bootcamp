@@ -1,28 +1,26 @@
-# Overview
-
 Welcome to 5-Week Data Science Bootcamp :)
 
 ### Overview
 
 In this bootcamp, there will be:
 
-* 5 Weeks of Learning Content - release every Friday ([detailed schedule here](https://docs.google.com/document/d/1X2DWGL3Y9N\_i9tmF5keWZbdiIroEeaG2IUogxq\_FJyk/edit))
+* 5 Weeks of Learning Content
 * 2 Graded Quiz Assignments
 * 1 Graded Hands-on Assignment on Real-World Dataset
 
 ### Learning Modules:
 
-* Learning modules will be released every Friday, starting from 11th March, 6:00 PM CET/ 10:30 PM IST.
-* Day-Wise Learning Modules:  We've segregated them day wise for your convenience so that you can spend 1-2 hrs a day to learn a topic.&#x20;
-* However, if you cannot do it day-wise, we recommend you to plan your learning hours twice every week with a time commitment of 3-4 hrs per session.
+* Learning modules will be released on the start date of the bootcamp.
+* Day-Wise Learning Modules:  We've segregated them day-wise for your convenience so that you can spend 1-2 hrs a day learning a topic.&#x20;
+* However, if you cannot do it day-wise, we recommend you plan your learning hours twice every week with a time commitment of 3-4 hrs per session.
 * Please keep checking this space for regular learning module additions we make.
 * To accommodate learners from across the globe, we are putting the learning modules in offline format instead of having live sessions. This will allow you to learn at your own time.
-* If you face any issues while learning, feel free to drop a message on #help channel on [Discord](https://discord.gg/E2XfSEYm2W).
+* If you face any issues while learning, feel free to drop a message on #data-science channel on [Discord](https://discord.gg/E2XfSEYm2W).
 
 ### Assignment Guidelines
 
-* There will be 2 Quizzes and 1 Final Assignment, all of them are mandatory to attempt for the bootcamp completion.
-* Certificate: In order to be eligible for the certificate, you should submit all the assignments with a total score of minimum 60%.
+* There will be 2 Quizzes and 1 Final Assignment. All of them are mandatory to attempt for the bootcamp completion.
+* Certificate: In order to be eligible for the certificate, you should submit all the assignments with a total score of a minimum of 60%. You must also perform the peer review of fellow learners' submissions in the Final Assignment. You will receive a mail regarding peer review after the bootcamp ends. 
 
 ### Found any errors in content?
 
