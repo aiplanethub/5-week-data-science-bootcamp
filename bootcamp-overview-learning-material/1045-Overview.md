@@ -14,8 +14,8 @@ In this bootcamp, there will be:
 * Day-Wise Learning Modules:  We've segregated them day-wise for your convenience so that you can spend 1-2 hrs a day learning a topic.&#x20;
 * However, if you cannot do it day-wise, we recommend you plan your learning hours twice every week with a time commitment of 3-4 hrs per session.
 * Please keep checking this space for regular learning module additions we make.
-* To accommodate learners from across the globe, we are putting the learning modules in offline format instead of having live sessions. This will allow you to learn at your own time.
-* If you face any issues while learning, feel free to drop a message on #data-science channel on [Discord](https://discord.gg/E2XfSEYm2W).
+* To accommodate learners from across the globe, we are putting the learning modules in offline format instead of having live sessions. This will allow you to learn on your own time.
+* If you face any issues while learning, feel free to drop a message on the #data-science channel on [Discord](https://discord.gg/E2XfSEYm2W).
 
 ### Assignment Guidelines
 
